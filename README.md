@@ -19,5 +19,5 @@ Tópicos
 
 * [TH](TH.md) - TODO
 * [Setup](Setup.md) - TODO
-* [Guidelines](GuideLines.md) - Learn about how we do things from a process and communication standpoint
+* [Guidelines](GuideLines.md) - Guia de estilos java e cultura de desenvolvimento
 * [Process](Process.md) - TODO
